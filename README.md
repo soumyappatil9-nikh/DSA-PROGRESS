@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3110-score-of-a-string](https://github.com/soumyappatil9-nikh/DSA-PROGRESS/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
-|https://onecompiler.com/cpp/459bvq6ty. |
-https://onecompiler.com/c/459bvvnnu
-https://onecompiler.com/java/459bvwhn4
+|https://onecompiler.com/cpp/459bvq6ty. | c++
+
+|https://onecompiler.com/c/459bvvnnu.| c
+|https://onecompiler.com/java/459bvwhn4.|java
